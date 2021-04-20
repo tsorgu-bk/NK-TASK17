@@ -1,0 +1,3 @@
+E:/Studia/Narzędzia komputerowe/PROJEKT II/NK-TASK17/cmake-build-debug/CMakeFiles/NK_TASK17.dir
+E:/Studia/Narzędzia komputerowe/PROJEKT II/NK-TASK17/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/Studia/Narzędzia komputerowe/PROJEKT II/NK-TASK17/cmake-build-debug/CMakeFiles/rebuild_cache.dir

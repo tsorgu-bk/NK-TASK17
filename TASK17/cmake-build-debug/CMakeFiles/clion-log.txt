@@ -1,0 +1,1 @@
+CMakeLists.txt not found in E:\Studia\Narzędzia komputerowe\PROJEKT II\NK-TASK17\TASK17 Select CMakeLists.txt
