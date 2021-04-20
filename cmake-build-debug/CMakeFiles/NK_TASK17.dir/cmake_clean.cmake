@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/NK_TASK17.dir/main.cpp.obj"
+  "CMakeFiles/NK_TASK17.dir/src/main.cpp.obj"
   "NK_TASK17.exe"
   "NK_TASK17.exe.manifest"
   "NK_TASK17.pdb"
