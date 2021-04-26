@@ -1,6 +1,9 @@
 #include <iostream>
 
+using namespace std;
+
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    cout << "Hello, World!" << endl;
+    cout << "Nie ma pan grzyba" << endl;
     return 0;
 }
