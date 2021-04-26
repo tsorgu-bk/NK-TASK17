@@ -11,10 +11,10 @@ ile jest różnych sposobów dotarcia z Twojej farmy do Kansas City jeśli liczy
 saloonach.**
 
 
-###Przykładowy graf: <br/>
+### Przykładowy graf: <br/>
 [![N|Solid](https://github.com/tsorgu-bk/NK-TASK17/blob/main/examples/example_v2.png?raw=true)](https://github.com/tsorgu-bk/NK-TASK17/blob/main/examples/example_v2.png?raw=true)
 
-####Plik tekstowy opisujący powyższy graf
+#### Plik tekstowy opisujący powyższy graf
 
 Wierzchołek numer 1 zawsze jest "Ranczem" (Startem), pierwsze cyfry w kolejnych wierszach są Saloonami (wierzchołkami), natomiast ostatni wiersz opisuje Targ (koniec podróży).<br/>
 ```shell
