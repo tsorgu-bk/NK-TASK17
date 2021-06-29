@@ -51,17 +51,6 @@ void Graph::print_graph() {
 int main() {
     cout << "Hello, World!" << endl;
     Graph graph;
-    graph.add_edge(1,2);
-    graph.add_edge(1,3);
-    graph.add_edge(2,4);
-    graph.add_edge(2,5);
-    graph.add_edge(3,6);
-    graph.add_edge(3,7);
-    graph.add_edge(3,8);
-    graph.add_edge(4,3);
-    graph.add_edge(5,6);
-    graph.add_edge(6,8);
-    graph.add_edge(7,6);
     graph.print_graph();
     return 0;
 }
