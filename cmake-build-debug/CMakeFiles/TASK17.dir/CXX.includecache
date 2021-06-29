@@ -1,0 +1,48 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../inc/file_parser.hpp
+iostream
+-
+vector
+-
+dirent.h
+-
+string
+-
+algorithm
+-
+graph.hpp
+../inc/graph.hpp
+
+../inc/graph.hpp
+iostream
+-
+vector
+-
+cassert
+-
+list
+-
+utility
+-
+
+E:/Studia/Narzedzia komputerowe/PROJEKT II/NK-TASK17/src/main.cpp
+fstream
+-
+file_parser.hpp
+E:/Studia/Narzedzia komputerowe/PROJEKT II/NK-TASK17/src/file_parser.hpp
+vector
+-
+cassert
+-
+list
+-
+utility
+-
+

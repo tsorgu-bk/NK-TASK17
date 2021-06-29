@@ -9,4 +9,12 @@
 E:/Studia/Narzedzia komputerowe/PROJEKT II/NK-TASK17/src/main.cpp
 iostream
 -
+vector
+-
+cassert
+-
+list
+-
+utility
+-
 
